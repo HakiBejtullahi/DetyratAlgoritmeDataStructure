@@ -1,0 +1,15 @@
+{
+  "name": "detyratalgoritmedatastructure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Detyra1.js",
+  "scripts": {
+    "start": "run Detyra1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
